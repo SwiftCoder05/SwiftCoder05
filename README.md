@@ -4,7 +4,7 @@
   
 # Sinchana
 
-<sup>AI Engineer &nbsp;·&nbsp; Backend Engineering &nbsp;·&nbsp; Generative AI </sup>
+<sup>Software Engineer &nbsp;·&nbsp; AI Engineering &nbsp;·&nbsp; Backend Engineering </sup>
 
 <br/>
 
@@ -43,7 +43,8 @@
 
 ## whoami
 
-I'm **Sinchana** — an AI Engineer at Campusmesh Technology, Bengaluru. I build backend systems, agentic AI applications, and RAG-based LLM pipelines, and I've led development on CampusIQ, a permission-aware campus intelligence assistant on AWS Bedrock. Previously an engineer intern at Prudential plc Technology, building enterprise-grade backend services.
+I'm **Sinchana** — an AI Engineer at Campusmesh Technology, Bengaluru. I build intelligent multi-agent systems and RAG-powered LLM applications, exploring hybrid search, agent orchestration, and evaluation frameworks.
+Passionate about backend engineering, distributed systems, and designing scalable, reliable AI applications.
 
 <div align="center">
 
@@ -102,7 +103,7 @@ I'm **Sinchana** — an AI Engineer at Campusmesh Technology, Bengaluru. I build
   
 #### 𐃯 highlights
 
-<sub>🎓 **CGPA 9.0** · BE Computer Science, RNS Institute of Technology &nbsp;·&nbsp; 💼 **AI Engineer** · Campusmesh Technology — leading CampusIQ<br/>🛠️ **Engineer Intern** · Prudential plc Technology — backend services supporting 1000+ user requests &nbsp;·&nbsp; 📄 **3 shipped projects** — KaamSetu, Mock2Win, DocuChat</sub>
+<sub>🎓 **CGPA 9.0** · BE Computer Science, RNS Institute of Technology &nbsp;·&nbsp; 💼 **AI Engineer** · CampusMesh Technology — leading CampusIQ<br/>🛠️ **Engineer Intern** · Prudential plc Technology — Scalable Backend and Agent orchaestration system &nbsp;·&nbsp; 📄 **3 shipped projects** — KaamSetu, Mock2Win, DocuChat</sub>
 
 #
 
