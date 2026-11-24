@@ -91,9 +91,9 @@ I'm **Sinchana** — an AI Engineer at Campusmesh Technology, Bengaluru. I build
 <sub>A Django-based job-search platform with resume management and recruiter contact management, built to streamline the job-application workflow.<br/>Integrated LangGraph and RAG to generate context-aware recruiter emails and assist with job-description-based resume analysis and tailoring.</sub>
 
 ![Django](https://img.shields.io/badge/Django-0f172a?style=flat-square&logo=django&logoColor=092E20)
-![LangGraph](https://img.shields.io/badge/LangGraph-0f172a?style=flat-square&logoColor=FFFFFF)
-![RAG](https://img.shields.io/badge/RAG-0f172a?style=flat-square&logoColor=FFB3DE)
-![LLMs](https://img.shields.io/badge/LLMs-0f172a?style=flat-square&logoColor=00F0FF)
+![LangGraph](https://img.shields.io/badge/LangGraph-0f172a?style=flat-square&logo=langchain&logoColor=1C3C3C)
+![RAG](https://img.shields.io/badge/RAG-0f172a?style=flat-square)
+![LLMs](https://img.shields.io/badge/LLMs-0f172a?style=flat-square)
 
 </div>
 
