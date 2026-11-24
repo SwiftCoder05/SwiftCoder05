@@ -18,7 +18,7 @@
 <tr>
 <td valign="middle" align="center">
 
-<img height="120" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" alt="waving pixel Sinchana" />
+<img height="120" src="https://raw.githubusercontent.com/SwiftCoder05/SwiftCoder05/main/wave.gif" alt="waving pixel Sinchana" />
 
 </td>
 <td valign="middle">
