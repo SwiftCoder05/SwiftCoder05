@@ -7,7 +7,7 @@
 <br/>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=SwiftCoder05&color=8e2de2&style=for-the-badge&label=PROFILE+VIEWS)
-![Focus](https://img.shields.io/badge/FOCUS-Backend%20%26%20GenAI-1f6feb?style=for-the-badge)
+![Focus](https://img.shields.io/badge/FOCUS-Backend_and_GenAI-1f6feb?style=for-the-badge)
 
 <br/>
 
@@ -135,9 +135,14 @@ Built at Campusmesh Technology — a campus intelligence assistant designed arou
 
 ## 📊 GitHub Analytics
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SwiftCoder05&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true)](https://github.com/SwiftCoder05)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SwiftCoder05&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SwiftCoder05&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" width="49%" />
+</p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SwiftCoder05&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)](https://github.com/SwiftCoder05)
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=SwiftCoder05&theme=tokyonight&hide_border=true" width="100%" />
+</p>
 
 ---
 
@@ -151,3 +156,4 @@ I'm always interested in connecting with engineers, exploring interesting ideas,
 **Building intelligent systems. Exploring generative AI. Solving meaningful problems.**
 
 ### Always Learning. Always Building. Always Engineering. 🚀
+
