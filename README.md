@@ -4,7 +4,7 @@
   
 # Sinchana
 
-<sup>Software Engineer &nbsp;·&nbsp; AI Engineering &nbsp;·&nbsp; Backend Engineering </sup>
+<sup>AI Engineer &nbsp;·&nbsp; Backend Engineering &nbsp;·&nbsp; Generative AI </sup>
 
 <br/>
 
@@ -43,8 +43,7 @@
 
 ## whoami
 
-I'm **Sinchana** — an AI Engineer at Campusmesh Technology, Bengaluru. I build intelligent multi-agent systems and RAG-powered LLM applications, exploring hybrid search, agent orchestration, and evaluation frameworks.
-Passionate about backend engineering, distributed systems, and designing scalable, reliable AI applications.
+I'm **Sinchana** — an AI Engineer at Campusmesh Technology, Bengaluru. I build backend systems, agentic AI applications, and RAG-based LLM pipelines, and I've led development on CampusIQ, a permission-aware campus intelligence assistant on AWS Bedrock. Previously an engineer intern at Prudential plc Technology, building enterprise-grade backend services.
 
 <div align="center">
 
@@ -85,6 +84,23 @@ Passionate about backend engineering, distributed systems, and designing scalabl
 
 <div align="center">
 
+#### 𐃯 featured project
+
+<sub>💼 **KaamSetu** — AI-Powered Job Search & Recruiter Outreach Platform</sub>
+
+<sub>A Django-based job-search platform with resume management and recruiter contact management, built to streamline the job-application workflow.<br/>Integrated LangGraph and RAG to generate context-aware recruiter emails and assist with job-description-based resume analysis and tailoring.</sub>
+
+![Django](https://img.shields.io/badge/Django-0f172a?style=flat-square&logo=django&logoColor=092E20)
+![LangGraph](https://img.shields.io/badge/LangGraph-0f172a?style=flat-square&logoColor=FFFFFF)
+![RAG](https://img.shields.io/badge/RAG-0f172a?style=flat-square&logoColor=FFB3DE)
+![LLMs](https://img.shields.io/badge/LLMs-0f172a?style=flat-square&logoColor=00F0FF)
+
+</div>
+
+---
+
+<div align="center">
+
 
 <img width="60%" height="235" src="https://github-readme-activity-graph.vercel.app/graph?username=SwiftCoder05&bg_color=000000&color=FFB3DE&line=00F0FF&point=FF2E97&area=true&area_color=#000000&hide_border=false&radius=16&custom_title=commit%20stream" />
 
@@ -103,7 +119,7 @@ Passionate about backend engineering, distributed systems, and designing scalabl
   
 #### 𐃯 highlights
 
-<sub>🎓 **CGPA 9.0** · BE Computer Science, RNS Institute of Technology &nbsp;·&nbsp; 💼 **AI Engineer** · CampusMesh Technology — leading CampusIQ<br/>🛠️ **Engineer Intern** · Prudential plc Technology — Scalable Backend and Agent orchaestration system &nbsp;·&nbsp; 📄 **3 shipped projects** — KaamSetu, Mock2Win, DocuChat</sub>
+<sub>🎓 **CGPA 9.0** · BE Computer Science, RNS Institute of Technology &nbsp;·&nbsp; 💼 **AI Engineer** · Campusmesh Technology — leading CampusIQ<br/>🛠️ **Engineer Intern** · Prudential plc Technology — backend services supporting 1000+ user requests &nbsp;·&nbsp; 📄 **3 shipped projects** — KaamSetu, Mock2Win, DocuChat</sub>
 
 #
 
