@@ -87,7 +87,7 @@ I'm **Sinchana** — an AI Engineer at Campusmesh Technology, Bengaluru. I build
 #### 𐃯 featured project
 
 <sub>💼 **KaamSetu** — AI-Powered Job Search & Recruiter Outreach Platform</sub>
-
+![Project Live Link](https://kaamsetu-16uw.onrender.com).
 <sub>A Django-based job-search platform with resume management and recruiter contact management, built to streamline the job-application workflow.<br/>Integrated LangGraph and RAG to generate context-aware recruiter emails and assist with job-description-based resume analysis and tailoring.</sub>
 
 ![Django](https://img.shields.io/badge/Django-0f172a?style=flat-square&logo=django&logoColor=092E20)
